@@ -34,7 +34,7 @@ const Switch: React.FC<SwitchProps> = ({
     width: '40px',
     height: '20px',
     borderRadius: '10px',
-    border: '2px solid #black',
+    border: '2px solid black',
     backgroundColor: checked
       ? backgroundImageChecked
       : backgroundImageUnchecked,
